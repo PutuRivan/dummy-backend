@@ -10,7 +10,7 @@
 ### 1. Clone the Repository (if applicable)
 ```bash
 git clone https://github.com/PutuRivan/dummy-backend.git
-cd dummy_backend
+cd dummy-backend
 ```
 
 ### 2. Install Dependencies
