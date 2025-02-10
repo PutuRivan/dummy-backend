@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": "post-1739161751350",
+      "title": "Belajar API dengan Express",
+      "content": "API (Application Programming Interface) memungkinkan komunikasi antara aplikasi.",
+      "createdAt": "2025-02-10T04:29:11.350Z"
+    },
+    {
+      "id": "1739161955704",
+      "title": "Belajar dengan REACT",
+      "content": "API (Application Programming Interface) memungkinkan komunikasi antara aplikasi.",
+      "createdAt": "2025-02-10T04:32:35.704Z",
+      "updatedAt": "2025-02-10T04:32:43.107Z"
+    }
+  ]
+}
