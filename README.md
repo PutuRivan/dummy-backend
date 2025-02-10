@@ -9,7 +9,7 @@
 
 ### 1. Clone the Repository (if applicable)
 ```bash
-git clone https://github.com/your-username/dummy_backend.git
+git clone https://github.com/PutuRivan/dummy_backend.git
 cd dummy_backend
 ```
 
