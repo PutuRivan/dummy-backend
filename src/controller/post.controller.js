@@ -1,4 +1,4 @@
-import { getStoredPosts, savePosts } from "../data/posts.js";
+import { getStoredPosts, savePosts } from "../query/posts.js";
 
 // ✅ Get All Posts
 export const getPosts = async (req, res) => {
